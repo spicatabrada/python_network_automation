@@ -5,4 +5,7 @@ netmiko2.py ... simple script running the same tasks on multiple switches:
    "sh ip int br"
    "create int loop 0"
    "create multiple VLANs"
+
+netmiko3.py ... apply configuration to multiple switches, configuration 
+   stored in external plain text file
 ```
