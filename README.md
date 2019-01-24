@@ -9,7 +9,7 @@ netmiko2.py ... simple script running the same tasks on multiple switches:
 netmiko3.py ... apply configuration to multiple switches, configuration 
    stored in external plain text file
    
-netmiko3.py ... simple script applying the global configuration to "all" switches
+netmiko4.py ... simple script applying the global configuration to "all" switches
    and specific switchport configuration to specific switches
    two configuraiton files needed 
 ```
