@@ -13,5 +13,6 @@
    two configuraiton files needed 
 
 - napalm1.py ... basic napalm getters
+   
    list of getters: https://napalm.readthedocs.io/en/latest/support/index.html#getters-support-matrix 
 
