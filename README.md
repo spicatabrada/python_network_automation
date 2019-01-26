@@ -12,4 +12,6 @@ netmiko3.py ... apply configuration to multiple switches, configuration
 netmiko4.py ... simple script applying the global configuration to "all" switches
    and specific switchport configuration to specific switches
    two configuraiton files needed 
+napalm1.py ... basic napalm getters
+   list of getters: https://napalm.readthedocs.io/en/latest/support/index.html#getters-support-matrix
 ```
