@@ -16,3 +16,4 @@
    
    list of getters: https://napalm.readthedocs.io/en/latest/support/index.html#getters-support-matrix 
 
+- napalm_bigevilbeard_example.py ... ref. YouTube video [Managing network configurations with Python automation frameworks NAPALM and Nornir] (https://youtu.be/3uIk0WQLHZk)
