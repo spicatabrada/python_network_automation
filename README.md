@@ -7,8 +7,7 @@
 - netmiko3.py ... apply configuration to multiple switches, configuration 
    stored in external plain text file 
 - netmiko4.py ... simple script applying the global configuration to "all" switches
-   and specific switchport configuration to specific switches
-   two configuraiton files needed 
+   and specific switchport configuration to specific switches; two configuraiton files needed 
 - napalm1.py ... basic napalm getters
 - napalmconfig2.py ... example of NAPALM comparing running configuration with planned changes 
 - napalm_bigevilbeard_example.py ... ref. YouTube video [Managing network configurations with Python automation frameworks NAPALM and Nornir](https://youtu.be/3uIk0WQLHZk)
