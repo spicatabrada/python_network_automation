@@ -10,6 +10,6 @@
    and specific switchport configuration to specific switches; two configuraiton files needed 
 - napalm1.py ... basic napalm getters
 - napalmconfig2.py ... example of NAPALM comparing running configuration with planned changes 
-- napalm_bigevilbeard_example.py ... ref. YouTube video [Managing network configurations with Python automation frameworks NAPALM and Nornir](https://youtu.be/3uIk0WQLHZk)
+- napalm_bigevilbeard_example.py ... ref. YouTube video [Managing network configurations with Python automation frameworks NAPALM and Nornir](https://youtu.be/3uIk0WQLHZk) ; [Stuart Clark GigHub](https://github.com/bigevilbeard/netdevops_napalm_nornir)
 
   list of getters: https://napalm.readthedocs.io/en/latest/support/index.html#getters-support-matrix
